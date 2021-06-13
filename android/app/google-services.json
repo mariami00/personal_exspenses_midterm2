@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794318930925",
+    "project_id": "personal-expenses-f92c3",
+    "storage_bucket": "personal-expenses-f92c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794318930925:android:56173f11eff55e91025de4",
+        "android_client_info": {
+          "package_name": "com.mariami.personal_expenses_midterm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794318930925-dajvtbour45ids0okvuqldat5bi2v5c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9iHADYLKDOmjEQlFPJ_461gETOVdEOIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794318930925-dajvtbour45ids0okvuqldat5bi2v5c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
